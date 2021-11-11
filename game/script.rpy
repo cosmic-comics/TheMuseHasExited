@@ -15,7 +15,7 @@ label start:
     $ config.allow_skipping = True
 
 
-    call stor
+    call story
 
     return
 

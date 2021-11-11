@@ -27,7 +27,6 @@ label story:
     with wipeleft_scene
     scene bg house
     "I finally make my way back to Sayori's house."
-    "LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL"
     "I knock on the door holding onto the tray of cupcakes with my other hand."
     "..."
     "Well she wasn't answering her phone before hand So I guess I shouldn't have expected her to answer the door."
