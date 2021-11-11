@@ -15,3 +15,11 @@ git clone https://github.com/cosmic-comics/TheMuseHasExited && cd TheMuseHasExit
 ```sh
 renpy .
 ```
+
+## Discord
+
+https://discord.gg/tV9uFvenjV
+
+## Reddit
+
+https://reddit.com/r/DDLCTheMuseHasExited
