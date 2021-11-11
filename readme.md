@@ -2,15 +2,15 @@
 
 ## Development
 
-Get the source code:
+1. Get the source code:
 
 ```sh
 git clone https://github.com/cosmic-comics/TheMuseHasExited && cd TheMuseHasExited
 ```
 
-Instal [Ren'py](https://www.renpy.org)
+2. Install [Ren'py](https://renpy.org)
 
-Start the process:
+3. Start the process:
 
 ```sh
 renpy .

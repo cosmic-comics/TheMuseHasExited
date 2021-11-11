@@ -27,6 +27,7 @@ label story:
     with wipeleft_scene
     scene bg house
     "I finally make my way back to Sayori's house."
+    "LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL"
     "I knock on the door holding onto the tray of cupcakes with my other hand."
     "..."
     "Well she wasn't answering her phone before hand So I guess I shouldn't have expected her to answer the door."
@@ -57,7 +58,7 @@ label story:
     "Sayori stands at the foot of her bed, a long thick rope in her hands"
     "its tied in a hangmans noose"
     "In the shock of the moment I release my grip on the tray of cupcakes"
-    mc "What The {i}Fuck{/i}?!"
+    mc "What The {i}Duck{/i}?!"
     show sayori 1bv at t11
     s "it- its not what it-"
     mc "Like Hell its not what it looks like!"
@@ -79,15 +80,6 @@ label story:
     mc "Well its the truth"
     mc "And Im determined to help you every step of the way."
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
     play music t6
     scene bg club_day
     show natsuki 1ba at t11
@@ -104,121 +96,3 @@ label story:
     mc "that must be her house"
     show natsuki wedhappy at t11
     n "nice wedding puddin"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

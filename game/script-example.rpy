@@ -1,38 +1,21 @@
-## This is an example scene
-## It teaches you a little about making mods
-
-# Each section needs a label, this is how we will call the scene in other parts
-# of the script
 label example_chapter:
     stop music fadeout 2.0
 
-    # setup scene with background and music
     scene bg club_day
     with dissolve_scene_full
     play music t3
 
-    # Say statements
-    # <char name> "stuff to say"
     m "...[player]?"
 
-    # show characters and positions and stuff
     show monika 1 zorder 2 at t11
     m "Ah! What a nice surprise!"
 
-    # Character images are their name followed by number and letters
     show monika 1b zorder 2 at t11
     m "Welcome to the club!"
     m "The Modification Club."
 
-
     show monika 3 zorder 2 at t11
     m " I started this club after I had some difficulties changing code in Doki Doki Literature Club."
-
-
-
-
-
-
 
     m 3l "It turns out that bad coding can really hurt people."
     m 3j "That's why I wanted to make this club to teach people how to mod responsibly!"
@@ -75,16 +58,12 @@ label example_chapter:
     m 1k "I haven't asked about you or the game you want to make."
     m 5 "Ahaha~! How silly of me!"
 
-
-
     default knows_python = False
     default knows_renpy = False
-
 
     menu:
         m "How experienced are you with coding?"
         "I'm an experienced coder":
-
             $ experience_level = 2
             m 5 "Really? That's very impressive!"
             show monika 1m zorder 2 at t11
@@ -179,4 +158,3 @@ label example_chapter:
     jump tutorial_selection
 
     return
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

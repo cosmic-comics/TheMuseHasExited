@@ -1,11 +1,4 @@
-## Tutorials
-# sorry about the lack of comments
-#
-# transition of ownership is tough to do when the github repo doesnt have
-# the latest changes
-
 init python:
-
     items = [
         (_("Introduction"),"example_chapter"),
         (_("Route Part 1, How To Make A Mod"),"tutorial_route_p1"),
@@ -1076,5 +1069,4 @@ label tutorial_route_adv_poemgame_txgrid:
     m "Okay! I hope that helps! Thanks for listening."
 
     return
-
 

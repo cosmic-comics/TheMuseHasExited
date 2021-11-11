@@ -1,16 +1,8 @@
-# Entry point
 label start:
-
-    # ID of this playtrhoguh
     $ anticheat = persistent.anticheat
-
-    # keep track of chapter
     $ chapter = 0
-
-    # if they quit during a pause, we have to set _dismiss_pause to false again
     $ _dismiss_pause = config.developer
 
-    # girl names
     $ s_name = "Sayori"
     $ m_name = "Monika"
     $ n_name = "Natsuki"
@@ -23,7 +15,7 @@ label start:
     $ config.allow_skipping = True
 
 
-    call story #story is the label
+    call stor
 
     return
 
@@ -36,4 +28,3 @@ label endgame(pause_length=4.0):
     pause pause_length
     $ quick_menu = True
     return
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

@@ -1,13 +1,4 @@
-﻿
-## Initialization
-################################################################################
-
-init offset = -1
-
-
-################################################################################
-## Styles
-################################################################################
+﻿init offset = -1
 
 style default:
     font gui.default_font
@@ -87,11 +78,6 @@ style prompt_text is gui_text:
     color gui.text_color
     size gui.interface_text_size
 
-
-#style bar:
-#    ysize gui.bar_size
-#    left_bar Frame("gui/bar/left.png", gui.bar_borders, tile=gui.bar_tile)
-#    right_bar Frame("gui/bar/right.png", gui.bar_borders, tile=gui.bar_tile)
 
 style vbar:
     xsize gui.bar_size

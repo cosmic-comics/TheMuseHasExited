@@ -1,16 +1,12 @@
-## splash screen is first thing that gets shown to player
 init -100 python:
-
-    # archive check for mods
     for archive in ['audio','images','fonts']:
         if archive not in config.archives:
             renpy.error("DDLC archive files not found in /game folder. Check installation and try again.")
 
-# disclaimers
 init python:
     menu_trans_time = 1
 
-    splash_message_default = "This game is an unofficial fan work made By TheDragonFox."
+    splash_message_default = "This game is an unofficial fan work made By The Cosmic Comics Team."
 
     splash_messages = [
         "Please support Doki Doki Literature Club.",
